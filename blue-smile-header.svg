@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">BLUE//SMILE — The AI Frontier</title>
+<desc id="d">A dark cyber-samurai themed banner for Nick Williams, AI Engineer and LLM Engineering enthusiast.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".58" stop-color="#082746"/><stop offset="1" stop-color="#020617"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#075985"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#075985"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#0284c7" stop-opacity=".35"/><stop offset="1" stop-color="#0284c7" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#38bdf8" stroke-opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/><rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+<circle cx="1010" cy="135" r="250" fill="url(#halo)"/>
+<path d="M0 255L150 215 260 245 390 185 530 238 680 180 820 235 960 170 1100 225 1200 195V300H0Z" fill="#061629"/>
+<path d="M0 255L150 215 260 245 390 185 530 238 680 180 820 235 960 170 1100 225 1200 195" fill="none" stroke="#0e7490" stroke-opacity=".55" stroke-width="2"/>
+<path d="M38 38H330M38 38V78M1162 38H950M1162 38V78M38 262H330M38 262V222M1162 262H950M1162 262V222" stroke="url(#line)" stroke-width="2" fill="none"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="78" y="118" fill="#67e8f9" font-size="18" letter-spacing="7">THE AI FRONTIER</text>
+ <text x="72" y="188" fill="#f8fafc" font-size="66" font-weight="800" letter-spacing="1">BLUE<tspan fill="#22d3ee">//</tspan>SMILE</text>
+ <text x="78" y="226" fill="#bae6fd" font-size="21" letter-spacing="4">AI ENGINEER  •  LLM ENGINEERING</text>
+ <text x="78" y="282" fill="#67e8f9" font-size="13" letter-spacing="3">EXPLORE  /  BUILD  /  INNOVATE</text>
+ <text x="1095" y="65" text-anchor="end" fill="#38bdf8" font-size="13" letter-spacing="3">NICK WILLIAMS</text>
+</g>
+<circle cx="1040" cy="145" r="76" fill="none" stroke="#22d3ee" stroke-opacity=".5" stroke-width="2"/>
+<circle cx="1040" cy="145" r="91" fill="none" stroke="#0ea5e9" stroke-opacity=".2" stroke-dasharray="5 9" stroke-width="2"/>
+<path d="M965 145H920M1160 145H1115M1040 54V32M1040 258V236" stroke="#22d3ee" stroke-opacity=".7"/>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="none" stroke="#0ea5e9" stroke-opacity=".65"/>
+</svg>
