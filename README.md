@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="assets/blue-smile-header.svg" width="100%" alt="BLUE//SMILE — The AI Frontier"/>
+<img src="warrior-dashboard.jpg" width="100%" alt="BLUE//SMILE panda warrior AI engineer dashboard"/>
 
 <br/>
 
-<img src="assets/panda-warrior-avatar.webp" width="150" height="150" alt="Panda warrior avatar" />
+<img src="panda-warrior-avatar.webp" width="96" height="96" alt="Panda warrior avatar"/>
 
-### NICK WILLIAMS
+# NICK WILLIAMS
+
 **AI ENGINEER · LLM ENGINEERING · PYTHON**
 
 *Turn ideas into intelligent solutions.*
@@ -19,41 +20,28 @@
 
 ---
 
-<div align="center">
+## ⚔️ ABOUT ME
 
-<img src="assets/warrior-dashboard.jpg" width="100%" alt="BlueSmile panda warrior AI engineer dashboard artwork"/>
-
-</div>
-
-## ⚔️ ABOUT THE WARRIOR
-
-I'm **Nick Williams** — an AI-focused developer exploring the engineering behind intelligent applications, Large Language Models, and practical automation.
+I'm **Nick Williams**, an AI-focused developer exploring the engineering behind intelligent applications, Large Language Models, and practical automation.
 
 I enjoy learning by building: understanding a concept, turning it into code, testing the result, and improving it.
 
-| | |
-|---|---|
-| **Identity** | AI Engineer |
-| **Primary focus** | LLM Engineering |
-| **Core language** | Python |
-| **Interests** | Generative AI · Machine Learning · Intelligent Automation |
-| **GitHub** | [@bluesmile-325](https://github.com/bluesmile-325) |
+- **Focus:** Artificial Intelligence and LLM Engineering
+- **Core language:** Python
+- **Interests:** Generative AI, machine learning, and intelligent automation
+- **Approach:** Learn deeply, build deliberately, improve continuously
 
-> **My principle:** Stay curious. Build with purpose. Keep sharpening the craft.
+> Stay curious. Build with purpose. Keep sharpening the craft.
 
 ## 🧠 THE AI DOJO
-
-<div align="center">
 
 | DOMAIN | WHAT I'M EXPLORING |
 |:---|:---|
 | **LLM Engineering** | Language models, prompting, model-powered applications |
 | **Generative AI** | Creative and productivity-focused AI systems |
-| **Python Engineering** | Programming foundations, APIs, automation |
-| **Machine Learning** | Models, data, evaluation, experimentation |
+| **Python Engineering** | Programming foundations, APIs, and automation |
+| **Machine Learning** | Models, data, evaluation, and experimentation |
 | **AI Workflows** | Connecting tools and building useful intelligent pipelines |
-
-</div>
 
 ## 🛠️ TECHNICAL ARSENAL
 
@@ -61,7 +49,7 @@ I enjoy learning by building: understanding a concept, turning it into code, tes
 
 **LANGUAGES & DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode&theme=dark" alt="Programming languages and development tools"/>
 
 **AI & DATA INTERESTS**
 
@@ -74,48 +62,16 @@ I enjoy learning by building: understanding a concept, turning it into code, tes
 
 ## 🏯 PROJECT HALL
 
-A showcase for experiments and practical builds. Replace these starter descriptions with links as each repository is published.
+*A space for experiments and practical builds. Add repository links here as your projects are published.*
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| PROJECT | DIRECTION |
+|:---|:---|
+| **LLM Explorer** | Experiments with language-model concepts and applications |
+| **Python Forge** | Practical programs to strengthen Python engineering |
+| **AI Automation** | Experiments connecting tools and streamlining workflows |
+| **Future Systems** | Prototypes and ideas for useful AI applications |
 
-### 🔹 LLM EXPLORER
-A learning and experimentation space for language-model concepts and applications.
-
-`LLMs` `Python` `AI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 PYTHON FORGE
-Small programs and practical projects that strengthen Python engineering skills.
-
-`Python` `Programming`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 AI AUTOMATION
-Experiments in connecting tools and streamlining repeatable workflows.
-
-`Automation` `APIs`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 FUTURE SYSTEMS
-A home for prototypes, ideas, and next-generation AI application experiments.
-
-`Generative AI` `Innovation`
-
-</td>
-</tr>
-</table>
-
-## 📈 GITHUB INTEL
+## 📈 GITHUB ACTIVITY
 
 <div align="center">
 
@@ -142,19 +98,13 @@ A home for prototypes, ideas, and next-generation AI application experiments.
     Build · Test · Document · Improve
 ```
 
-## 🌌 THE WARRIOR'S CODE
-
 <div align="center">
 
-### EXPLORE. BUILD. EXCEL.
+## 🌌 EXPLORE. BUILD. EXCEL.
 
 **Turn Ideas Into Intelligent Solutions.**
 
-*The strongest developer is always still learning.*
-
 [![Follow on GitHub](https://img.shields.io/badge/FOLLOW_THE_JOURNEY-bluesmile--325-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bluesmile-325)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:06b6d4&height=110&section=footer" width="100%" alt="Blue cyan footer"/>
 
 <sub>BLUE//SMILE · NICK WILLIAMS · BUILT WITH CURIOSITY</sub>
 
